@@ -1,5 +1,7 @@
 # Experimental: Semantic Kernel Recipes
 
+**NOTE** The following are Python versions of the Jupyter notebooks that my friend [John Maeda](https://github.com/johnmaeda) initially put together using the C# version of the Semantic Kernel. 
+
 There's now a free LinkedIn Learning course on Semantic Kernel available [here](https://aka.ms/sk/li/introducing-semantic-kernel). And a new course on building skills [here](https://aka.ms/sk/li/building-skills). 
 ---
 
