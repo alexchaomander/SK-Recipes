@@ -1,5 +1,7 @@
 # Semantic Kernel pre-requisites
 
+**NOTE** These pre-reqs will get you set up to use both the C# and Python notebooks within VSCode. If you are a pure Python user, feel free to use whichever Jupyter environment you feel most comfortable with. 
+
 The following software needs to be installed on your computer:
 
 * ✅ [Visual Studio Code](https://code.visualstudio.com/Download)
